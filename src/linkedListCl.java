@@ -7,7 +7,7 @@ public class linkedListCl {
     public static void main(String[] args) {
         List<String> list=new LinkedList<String>();
         list.add("CoderClub Members");
-        list.add("Nasir");
+        list.add("Nasir Ibne Hussain");
         list.add("Fahim");
         list.add("Ahmed");
         list.add("Siddik");
